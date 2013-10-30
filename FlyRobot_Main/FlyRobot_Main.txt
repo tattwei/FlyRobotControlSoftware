@@ -1,0 +1,1 @@
+./Debug/main.o ./Debug/MainFrame.o ./Debug/wxcrafter.o ./Debug/wxcrafter_bitmaps.o ./Debug/win_resources.rc.o ./Debug/ManualRobotFrame.o ./Debug/InspectionCameraFrame.o   
